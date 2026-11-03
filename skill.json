@@ -1,0 +1,18 @@
+{
+  "name": "genpark-personal-agent-ocular-electrooculography-arden-ratio-eog-skill",
+  "version": "1.0.0",
+  "description": "Calculates EOG Arden ratio (Light Peak / Dark Trough), percentage index, and interocular asymmetry to assess retinal pigment epithelium (RPE) health and detect Best vitelliform dystrophy.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "mcp": "mcp_server.py",
+  "categories": [
+    "personal-agent",
+    "ocular",
+    "electrooculography",
+    "arden-ratio",
+    "retinal-pigment-epithelium",
+    "electrophysiology"
+  ],
+  "dependencies": []
+}
